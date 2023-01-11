@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://spacedani.github.io/ferienwohnung-villa-ana/sitemap.xml

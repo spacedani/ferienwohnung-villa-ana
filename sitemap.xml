@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://spacedani.github.io/ferienwohnung-villa-ana/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://spacedani.github.io/ferienwohnung-villa-ana/</loc>
+</url>
+<url>
+<loc>https://spacedani.github.io/ferienwohnung-villa-ana/ferienwohnung-duo.html</loc>
+<lastmod>2023-01-11T08:48:25+01:00</lastmod>
+</url>
+<url>
+<loc>https://spacedani.github.io/ferienwohnung-villa-ana/ferienwohnung-uno.html</loc>
+<lastmod>2023-01-11T08:47:24+01:00</lastmod>
+<image:image>
+<image:loc>https://spacedani.github.io/ferienwohnung-villa-ana/media/posts/2/SM_DSC03765.JPG</image:loc>
+<image:title><![CDATA[Ferienwohnung Uno in der Villa Ana in Pula]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://spacedani.github.io/ferienwohnung-villa-ana/new-post.html</loc>
+<lastmod>2023-01-11T08:22:17+01:00</lastmod>
+<image:image>
+<image:loc>https://spacedani.github.io/ferienwohnung-villa-ana/media/posts/1/IMG_4377.JPG</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://spacedani.github.io/ferienwohnung-villa-ana/page/2/</loc>
+</url>
+<url>
+<loc>https://spacedani.github.io/ferienwohnung-villa-ana/page/3/</loc>
+</url>
+</urlset>

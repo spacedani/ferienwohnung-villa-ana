@@ -1,0 +1,57 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Ferienwohnungen Villa Ana in Pula",
+    "description": "",
+    "home_page_url": "https://spacedani.github.io/ferienwohnung-villa-ana",
+    "feed_url": "https://spacedani.github.io/ferienwohnung-villa-ana/feed.json",
+    "user_comment": "",
+    "icon": "https://spacedani.github.io/ferienwohnung-villa-ana/media/website/Logo-Villa-Ana-2-2.png",
+    "author": {
+        "name": "Danijela Weißgraeber"
+    },
+    "items": [
+        {
+            "id": "https://spacedani.github.io/ferienwohnung-villa-ana/ferienwohnung-duo.html",
+            "url": "https://spacedani.github.io/ferienwohnung-villa-ana/ferienwohnung-duo.html",
+            "title": "Ferienwohnung Duo",
+            "summary": "Unsere Ferienwohnung Uno liegt im 1. Obergeschoss der Villa Ana. 2 Doppelbettzimmer Wohn-Ess-Bereich mit zusätzlicher Schlafcouch Küche voll ausgestattet mit Kühlschrank, Gefrierschrank, Mikrowelle,&hellip;",
+            "content_html": "<p>Unsere Ferienwohnung Uno liegt im 1. Obergeschoss der Villa Ana. </p>\n<ul>\n<li>2 Doppelbettzimmer</li>\n<li>Wohn-Ess-Bereich mit zusätzlicher Schlafcouch</li>\n<li>Küche voll ausgestattet mit Kühlschrank, Gefrierschrank, Mikrowelle, Wasserkocher, Herd, Backofen, Geschirr, Besteck, Küchentücher etc.</li>\n<li>Klimaanlage</li>\n<li>Fernseher mit Sat Empfang</li>\n<li>Balkon bei beiden Schlafzimmern. </li>\n<li>Bad mit Dusche, WC etc.</li>\n</ul>",
+            "author": {
+                "name": "Danijela Weißgraeber"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-01-11T08:48:25+01:00",
+            "date_modified": "2023-01-11T08:48:25+01:00"
+        },
+        {
+            "id": "https://spacedani.github.io/ferienwohnung-villa-ana/ferienwohnung-uno.html",
+            "url": "https://spacedani.github.io/ferienwohnung-villa-ana/ferienwohnung-uno.html",
+            "title": "Ferienwohnung Uno",
+            "summary": "Unsere Ferienwohnung Uno liegt im Erdgeschoss der Villa Ana. 2 Doppelbettzimmer Wohn-Ess-Bereich mit zusätzlicher Schlafcouch Küche voll ausgestattet mit Kühlschrank, Gefrierschrank, Mikrowelle, Wasserkocher,&hellip;",
+            "content_html": "<p>Unsere Ferienwohnung Uno liegt im Erdgeschoss der Villa Ana. </p>\n<ul>\n<li>2 Doppelbettzimmer</li>\n<li>Wohn-Ess-Bereich mit zusätzlicher Schlafcouch</li>\n<li>Küche voll ausgestattet mit Kühlschrank, Gefrierschrank, Mikrowelle, Wasserkocher, Herd, Backofen, Geschirr, Besteck, Küchentücher etc.</li>\n<li>Klimaanlage</li>\n<li>Fernseher mit Sat Empfang</li>\n<li>Balkon bei beiden Schlafzimmern. Eins davon mit Zugang zum Garten.</li>\n<li>Bad mit Dusche, WC etc.</li>\n</ul>",
+            "image": "https://spacedani.github.io/ferienwohnung-villa-ana/media/posts/2/SM_DSC03765.JPG",
+            "author": {
+                "name": "Danijela Weißgraeber"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-01-11T08:47:24+01:00",
+            "date_modified": "2023-01-11T08:47:24+01:00"
+        },
+        {
+            "id": "https://spacedani.github.io/ferienwohnung-villa-ana/new-post.html",
+            "url": "https://spacedani.github.io/ferienwohnung-villa-ana/new-post.html",
+            "title": "Unser Ferienhaus Villa Ana",
+            "summary": "Unsere Villa liegt auf der schönen Seite von Pula :) Mit zwei Ferienwohnungen für 2 bis 4 Personen (max 6 bei kleinen Kindern)&hellip;",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://spacedani.github.io/ferienwohnung-villa-ana/media/posts/1/IMG_4377.JPG\" alt=\"\" width=\"750\" height=\"1000\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://spacedani.github.io/ferienwohnung-villa-ana/media/posts/1/responsive/IMG_4377-xs.JPG 300w ,https://spacedani.github.io/ferienwohnung-villa-ana/media/posts/1/responsive/IMG_4377-sm.JPG 480w ,https://spacedani.github.io/ferienwohnung-villa-ana/media/posts/1/responsive/IMG_4377-md.JPG 768w ,https://spacedani.github.io/ferienwohnung-villa-ana/media/posts/1/responsive/IMG_4377-lg.JPG 1024w ,https://spacedani.github.io/ferienwohnung-villa-ana/media/posts/1/responsive/IMG_4377-xl.JPG 1360w ,https://spacedani.github.io/ferienwohnung-villa-ana/media/posts/1/responsive/IMG_4377-2xl.JPG 1600w\"></figure>Unsere Villa liegt auf der schönen Seite von Pula :) Mit zwei Ferienwohnungen für 2 bis 4 Personen (max 6 bei kleinen Kindern) unweit von den Stränden Pulas und der Umgebung entfernt.</p>\n<p>In 10 Minuten sind Sie in der Innenstadt von Pula, mehrere Strände außenherum, der nächste 2-3 Minuten entfernt.</p>\n<p>Warum Istrien? Sehr saubere Kiesstrände, glasklares Wasser und historische Städte. Sie suchen auch etwas Action für ihre Kinder? Kein Problem! Der Aquapark oder Dinopark sind schnell mit dem Auto zu erreichen.</p>",
+            "author": {
+                "name": "Danijela Weißgraeber"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-01-10T16:49:42+01:00",
+            "date_modified": "2023-01-11T08:22:17+01:00"
+        }
+    ]
+}
